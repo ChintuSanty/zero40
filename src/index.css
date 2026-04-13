@@ -1,0 +1,7 @@
+/* Base reset — SantyCSS handles the rest */
+body {
+  margin: 0;
+  padding: 0;
+  background: #0D0D0D;
+  overflow-x: hidden;
+}
